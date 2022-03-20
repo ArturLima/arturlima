@@ -1,6 +1,6 @@
 ### Hey, it's gonna be Legen...Wait For It...Dary! <img src="https://raw.githubusercontent.com/Dineshkarthik/Dineshkarthik/master/assets/starwars_fight.gif" width="60">
 <br>
-<img align='right' src="https://media3.giphy.com/media/KziKCpvrGngHbYjaUF/giphy.gif?cid=790b76115102ef3552a64bd75a38686ff43927c2adbfd200&rid=giphy.gif&ct=g" width="430">
+<img align='right' src="https://media3.giphy.com/media/KziKCpvrGngHbYjaUF/giphy.gif?cid=790b76115102ef3552a64bd75a38686ff43927c2adbfd200&rid=giphy.gif&ct=g" width="330">
 
 👋 Hi, I'm Artur Peixoto, but you can call me "Tutz".
 
