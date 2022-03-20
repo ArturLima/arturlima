@@ -8,6 +8,7 @@
 🌱 I’m currently learning more The System Design and Scalability.<br>
 😄 Pronouns: He/him.<br>
 🎮 Hobbies: Playing video games 🎮
+<br><br>
 
 ![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=arturlima&show_icons=true&theme=dark)
 
