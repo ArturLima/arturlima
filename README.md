@@ -9,6 +9,10 @@
 😄 Pronouns: He/him.<br>
 🎮 Hobbies: Playing video games 🎮
 <br><br>
+<br>
+<br>
+<br>
+
 
 ![Artur GitHub stats](https://github-readme-stats.vercel.app/api?username=arturlima&show_icons=true&theme=dark)
 
