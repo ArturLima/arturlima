@@ -4,7 +4,7 @@
 
 👋 Hi, I'm Artur Peixoto, but you can call me "Tutz".
 
-💼 Backend Developer at [Take Blip](https://www.take.net/). <br>
+💼 FullStack Developer. <br>
 🌱 I’m currently learning more The System Design and Scalability.<br>
 😄 Pronouns: He/him.<br>
 🎮 Hobbies: video games 🎮
