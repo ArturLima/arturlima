@@ -6,7 +6,6 @@
 
 💼 FullStack Developer. <br>
 🌱 I’m currently learning more The System Design and Scalability.<br>
-😄 Pronouns: He/him.<br>
 🎮 Hobbies: video games 🎮
 <br><br>
 
