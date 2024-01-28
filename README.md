@@ -5,7 +5,6 @@
 👋 Hi, I'm Artur Peixoto, but you can call me "Tutz".
 
 💼 FullStack Developer. <br>
-🌱 I’m currently learning more The System Design and Scalability.<br>
 🎮 Hobbies: video games 🎮
 <br><br>
 
